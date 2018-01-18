@@ -1,0 +1,5 @@
+CREATE 
+TABLE TESTDEV.T3
+( C3  Char(1)
+)
+/
