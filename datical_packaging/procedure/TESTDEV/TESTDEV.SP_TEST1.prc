@@ -10,6 +10,8 @@ Begin
    Select /*+ index(a) */ a.* into L_Chr
    from Dual;
    
+   Select sysdate from dual;
+   
    -- Do Nothing  
 End;
 /
