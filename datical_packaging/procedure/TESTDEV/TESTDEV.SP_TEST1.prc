@@ -7,9 +7,6 @@ Begin
    Select /*+ index(a) */ * 
    from Dual;
    
-   Select /*+ index(a) */ a.* into L_Chr
-   from Dual;
-   
    Select sysdate from dual;
    
    -- Do Nothing  
