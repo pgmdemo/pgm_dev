@@ -11,6 +11,7 @@ Begin
    from Dual;
    
    -- Do Nothing  
+   Select 'Y' from dual;
 End;
 /
    
