@@ -7,6 +7,7 @@ Begin
    Select sysdate from dual;
    
    -- Do Nothing  
+   Select '*' from dual;
 End;
 /
    

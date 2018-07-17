@@ -10,6 +10,8 @@ Begin
    Select sysdate from dual;
    
    -- Do Nothing  
+   Select 'X'
+   from dual;
 End;
 /
    
