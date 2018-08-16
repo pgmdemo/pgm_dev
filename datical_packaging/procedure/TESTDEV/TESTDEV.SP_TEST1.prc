@@ -10,8 +10,12 @@ Begin
    Select sysdate from dual;
    
    -- Do Nothing  
+<<<<<<< HEAD
    Select 'X'
    from dual;
+=======
+   Select 'Y' from dual;
+>>>>>>> master
 End;
 /
    
