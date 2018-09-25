@@ -6,6 +6,10 @@ Begin
    
    Select a.* 
    from Dual a;
+
+   Select a.*, a.X 
+   from Dual a;
+
    
    Select sysdate from dual;
    
