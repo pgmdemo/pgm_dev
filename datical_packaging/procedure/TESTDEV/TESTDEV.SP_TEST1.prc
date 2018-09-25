@@ -4,8 +4,8 @@ is
 L_Chr  CHAR(1) ; -- This is Oracle Single Line Comment
 Begin
    
-   Select /*+ index(a) */ * 
-   from Dual;
+   Select a.* 
+   from Dual a;
    
    Select sysdate from dual;
    
