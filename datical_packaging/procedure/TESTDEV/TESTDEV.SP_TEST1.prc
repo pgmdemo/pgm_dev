@@ -7,7 +7,7 @@ Begin
    Select a.* 
    from Dual a;
 
-   Select a.*, a.X 
+   Select  a.X 
    from Dual a;
 
    
