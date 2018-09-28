@@ -7,10 +7,6 @@ Begin
    Select a.* 
    from Dual a;
 
-   Select  a.X 
-   from Dual a;
-
-   
    Select sysdate from dual;
    
    -- Do Nothing  
