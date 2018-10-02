@@ -1,0 +1,6 @@
+CREATE 
+TABLE TESTDEV.T5
+( C1  Char(1),
+  C2  Char(1)
+)
+/
