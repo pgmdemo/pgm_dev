@@ -4,8 +4,8 @@ is
 L_Chr  CHAR(1) ; -- This is Oracle Single Line Comment
 Begin
    
-   Select 'X'
-   from dual X;
+   Select X
+   from dual ;
    
 End;
 /
