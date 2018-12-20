@@ -4,13 +4,9 @@ is
 L_Chr  CHAR(1) ; -- This is Oracle Single Line Comment
 Begin
    
-   Select /+*   NoHint*/ a.*  
+   Select *  into L_Chr
    from Dual a;
 
-   Select sysdate from dual;
-   
-   -- Do Nothing  
-   Select 'Y' from dual;
 End;
 /
    
