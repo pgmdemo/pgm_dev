@@ -4,7 +4,7 @@ is
 L_Chr  CHAR(1) ; -- This is Oracle Single Line Comment
 Begin
    
-   Select sysdate  into L_Chr
+   Select *  into L_Chr
    from Dual a;
 
 End;
