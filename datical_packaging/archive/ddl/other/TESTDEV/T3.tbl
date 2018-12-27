@@ -1,4 +1,0 @@
-CREATE TABLE LHSTAGE.RULE_TEST_1
-( C3  Char(1) Default '*' Not Null
-)
-/
